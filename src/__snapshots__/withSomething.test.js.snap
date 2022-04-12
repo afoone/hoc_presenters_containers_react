@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`withSomething should return a function 1`] = `
+<div>
+  <div
+    object="[object Object]"
+    style="color: red;"
+  >
+    <div>
+      Test Color 
+    </div>
+  </div>
+</div>
+`;
